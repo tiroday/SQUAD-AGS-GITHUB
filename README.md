@@ -13,7 +13,7 @@ A ballistic aiming tool for Squad's grenade launchers / mortars: enter distance 
 
 ## 项目来源 / Origin
 
-- **作者 Author**：清靖易（游戏内名 in-game）/ tiroday（GitHub）
+- **作者 Author**： tiroday（GitHub）
 - **实测数据**：作者在游戏内逐点实测落点（数据见 `TEST_DATA.md`）。
 - **弹道拟合**：由 **DeepSeek** 根据实测数据拟合弹道函数。
 - **Field-test data**: measured in-game by the author (see `TEST_DATA.md`).
