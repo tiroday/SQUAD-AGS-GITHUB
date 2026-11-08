@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Squad 终极准星 —— 《Squad》榴弹发射器/迫击炮弹道瞄准工具
-# Copyright (C) 2025 清靖易（游戏内名）/ tiroday（GitHub）
+# Copyright (C) 2025  tiroday（GitHub）
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
