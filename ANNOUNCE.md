@@ -7,8 +7,6 @@
 项目已上传至 GitHub，内含大量实测数据、使用明细与注意事项。
 地址：https://github.com/tiroday/SQUAD-AGS-GITHUB
 
-最后——大家在服务器上看到名为「清靖易」的拼好兵，请手下留情 😄
-
 ---
 
 Based on extensive in-game field testing, I had DeepSeek fit the ballistic functions for the AGS-17, MK19 and QLZ-87 (including bunker iron-sight variants). Field tests: AGS-17 max ~1900m, MK19 & QLZ-87 max ~3200m, with accurate impact in live matches.
@@ -17,5 +15,3 @@ This is now open-source under GPL v3.0. Anyone may freely use, modify and distri
 
 The project is on GitHub, containing extensive test data, usage details and notes.
 URL: https://github.com/tiroday/SQUAD-AGS-GITHUB
-
-Lastly — if you see a teammate named 「清靖易」 on the server, please go easy on them 😄
