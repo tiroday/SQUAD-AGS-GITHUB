@@ -1,0 +1,20 @@
+# AGS.pyw 依赖清单 / Dependency list
+# 安装命令 / Install:  pip install -r requirements.txt
+
+# 图形图像处理（覆盖层图标）/ Image processing for the overlay
+pillow>=9.0
+
+# 键盘监听（F7/F8/散布键）/ Keyboard listening for hotkeys
+pynput>=1.7
+
+# 缓动动画（覆盖层平滑移动）/ Easing for smooth overlay motion
+pytweening>=1.0
+
+# ---------------------------------------------------------------------------
+# 以下为 Python 自带，无需安装 / Built into Python, no install needed:
+#   tkinter（图形界面 / GUI）
+#   ctypes（读取鼠标原始输入 / Raw Input）
+#   math, json, os, threading（标准库 / standard library）
+#
+# 需要 Python 3.12 或更高 / Requires Python 3.12+
+# ---------------------------------------------------------------------------
