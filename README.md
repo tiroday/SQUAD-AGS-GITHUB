@@ -1,4 +1,16 @@
-<img width="2559" height="1599" alt="a728fda616f153c6be6b9cd8f1de4098" src="https://github.com/user-attachments/assets/2ce97a30-710f-4d1d-a1d7-478c5b23a290" />
+MK19位置图-软件工作图-射击落点图<img width="2553" height="1593" alt="2fa14568c6b3787a0ace56b90ce035f4" src="https://github.com/user-attachments/assets/1e08fa6b-9fda-43e7-a6e9-433f6b312ec3" />
+<img width="2532" height="1434" alt="64ed31fe7d5b48f5d1e3141a3cf6a9a0" src="https://github.com/user-attachments/assets/6d3eec80-f25b-46f2-834a-918a2dd73afc" />
+<img width="2559" height="1599" alt="b40d6a1fc1ac8b06e128dcd618aeb20f" src="https://github.com/user-attachments/assets/a5dbd021-9f99-4609-998c-0012708193bc" />
+AGS-17位置图-软件工作图-射击落点图<img width="2559" height="1599" alt="a5bd1a6446a21868c4ebc87421b291a7" src="https://github.com/user-attachments/assets/ba15a1fb-637a-4fbb-851c-b20757c4a671" />
+<img width="2559" height="1455" alt="e7f3fb1e158566bb34d85405a03a2a30" src="https://github.com/user-attachments/assets/88a8c6a9-1946-4321-93a7-32ac84ebb1f3" />
+<img width="2559" height="1461" alt="4bc627a7ce99a3c6237182183809cc78" src="https://github.com/user-attachments/assets/9bb44978-9e0e-4753-a14e-72ea226426dc" />
+<img width="2559" height="1599" alt="10a9530303ce906df9a90ece9241ff76" src="https://github.com/user-attachments/assets/69f32abe-56bf-472a-bee2-f8de30d635e1" />
+QLZ-87位置图-软件工作图-射击落点图<img width="2559" height="1599" alt="a728fda616f153c6be6b9cd8f1de4098" src="https://github.com/user-attachments/assets/a8f76c01-2b46-4bbe-9632-6f1a13f35caa" />
+<img width="2559" height="1466" alt="1a3291c9d75a98a951419418ff83fb9d" src="https://github.com/user-attachments/assets/7381d31b-3dc6-49c3-9e4b-52725a9dfed9" />
+<img width="2559" height="1457" alt="1cc600b8017a2db45db4b6fe05ddb0d9" src="https://github.com/user-attachments/assets/83494304-1b1e-4b4d-8110-396d26bdc370" />
+<img width="2559" height="1599" alt="e8b054d7e49cabfb0e239d169102e9e5" src="https://github.com/user-attachments/assets/01628de2-f6ef-433f-a70c-b8efc4bcf9b1" />
+
+
 # Squad 终极准星 / Squad Ultimate Crosshair
 
 > **自由开源软件（GPL v3.0）。** — **Free & open-source software (GPL v3.0).**
