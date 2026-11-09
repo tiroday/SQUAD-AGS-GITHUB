@@ -1,3 +1,4 @@
+<img width="2559" height="1599" alt="a728fda616f153c6be6b9cd8f1de4098" src="https://github.com/user-attachments/assets/2ce97a30-710f-4d1d-a1d7-478c5b23a290" />
 # Squad 终极准星 / Squad Ultimate Crosshair
 
 > **自由开源软件（GPL v3.0）。** — **Free & open-source software (GPL v3.0).**
